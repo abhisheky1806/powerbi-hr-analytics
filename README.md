@@ -1,7 +1,4 @@
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
-
-
-<h2 align="center">Welcome to my HR Power BI Project.</h2>
+<h2 align="center">Welcome to Job Data Analyses using Power BI Project.</h2>
 
 ---
 
@@ -36,8 +33,6 @@ Every company has a HR Department which deals with various recruitment and place
 The dataset is about the job details data for analytics industry. The companies in the dataset are Hong Kong based companies. Data consist of various job description for various analytics job roles like Data Scientist, Data analyst, Business Intelligence, Machine Learning Engineer, Data Engineer. The Dashboard made at the end is for the HR Team of a company.
 
 The dataset has 6 separate dataset of different days which was combined to make a final data set. It is a huge dataset with many columns and other attributes 
-
-You can download the dataset by clicking on the link: <a href="https://drive.google.com/drive/folders/1cqRV7ZU0-KEjrQLnh4vFHXeP6nHJGMhn?usp=sharing">CLICK HERE</a>
 
 ### Insights to be found out:
 
@@ -91,18 +86,6 @@ You can download the dataset by clicking on the link: <a href="https://drive.goo
 ![image](https://user-images.githubusercontent.com/49811782/134735631-736c2021-caff-463d-919b-4d63ffcbaa48.png)
 
 ### Please fork the repo if you like it !! 
----
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/CharoleJay"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jay-charole-2ab005153/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jaycharole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_jaycharole004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="#" height="30" width="40" /></a>
-</p>
-
 **Thanks and Regards ❤**
 <hr/>
 
